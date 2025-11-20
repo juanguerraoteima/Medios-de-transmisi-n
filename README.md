@@ -41,19 +41,20 @@ Tipos de medio de transmisión
 
 | Medios de transmisión | Caracteristica        |      USO            | CERTIFICACIONES S/N  |EJEMPLOS|
 |-----------------------|-----------------------|---------------------|----------------------|--------|
-| Fibra óptica          |finas hebras de vidrio |transmision de datos |    N                 |        |
-| Cable de par trenzado |posee 2 cables de cobre aislado trenzados para evitar interferencias externas|comunicacion de voz y datos |        N             |        |
-| Cable coaxial         |               |                             |            N         |        |
+| Fibra óptica          |finas hebras de vidrio o plástico que transmiten señales luminosas. |transmision de datos |    N                 |   transmision de datos a baja latencia y muy altas velocidades     |
+| Cable de par trenzado |posee 2 cables de cobre aislado trenzados para evitar interferencias externas|comunicacion de voz y datos. |        N             |    redes DSL    |
+| Cable coaxial         | su diseño en capas proporciona protección contra el ruido externo y las interferencias             |       conexiones de internet de banda ancha                      |            N         |  televisores de antena externa      |
 
 ---
 
 ##🚀 Conclusión 🚀.
-*( escribir conclucion.)*
+*( Con esta actividad pude aprender sobre las caracteristicas de los medios de transmision guidaos y no guiados, tambien pude reforzar mis conocimientos sobre los diferentes tipos de medios de transmisión.)*
 
 ---
 
 ## ✨ Referencias 🌎.
-*(Incorpore aquí solo las fuentes que realmente haya consultado, en formato APA 7. Mínimo 2 referencias.)*
+*(>Editorial Etecé. (2025). Fibra Óptica | https://concepto.de/fibra-optica
+>Daza Ramírez, F. (2009). Ponchado de cables: ( ed.). El Cid Editor | apuntes. https://elibro.net/es/lc/oteima/titulos/28977. )*
 
 > Ejemplo:   
 > Daza Ramírez, F. (2009). Ponchado de cables: ( ed.). El Cid Editor | apuntes. https://elibro.net/es/lc/oteima/titulos/28977.
