@@ -53,8 +53,7 @@ Tipos de medio de transmisión
 ---
 
 ## ✨ Referencias 🌎.
-*(>Editorial Etecé (2025). Fibra Óptica | https://concepto.de/fibra-optica
->Daza Ramírez, F. (2009). Ponchado de cables: ( ed.). El Cid Editor | apuntes. https://elibro.net/es/lc/oteima/titulos/28977. )*
+*(>Editorial Etecé (2025). Fibra Óptica | https://concepto.de/fibra-optica. >Daza Ramírez, F. (2009). Ponchado de cables: ( ed.). El Cid Editor | apuntes. https://elibro.net/es/lc/oteima/titulos/28977. )*
 
 > Ejemplo:   
 > Daza Ramírez, F. (2009). Ponchado de cables: ( ed.). El Cid Editor | apuntes. https://elibro.net/es/lc/oteima/titulos/28977.
